@@ -1,0 +1,67 @@
+C:/Users/yanin/source/repos/TriviaNow/TriviaNow/bin/Debug/TriviaNow.exe.config
+C:/Users/yanin/source/repos/TriviaNow/TriviaNow/bin/Debug/TriviaNow.exe
+C:/Users/yanin/source/repos/TriviaNow/TriviaNow/bin/Debug/TriviaNow.pdb
+C:/Users/yanin/source/repos/TriviaNow/TriviaNow/obj/Debug/TriviaNow.csprojResolveAssemblyReference.cache
+C:/Users/yanin/source/repos/TriviaNow/TriviaNow/obj/Debug/TriviaNow.Properties.Resources.resources
+C:/Users/yanin/source/repos/TriviaNow/TriviaNow/obj/Debug/TriviaNow.csproj.GenerateResource.Cache
+C:/Users/yanin/source/repos/TriviaNow/TriviaNow/obj/Debug/TriviaNow.csproj.CoreCompileInputs.cache
+C:/Users/yanin/source/repos/TriviaNow/TriviaNow/obj/Debug/TriviaNow.exe
+C:/Users/yanin/source/repos/TriviaNow/TriviaNow/obj/Debug/TriviaNow.pdb
+C:/Users/yanin/source/repos/TriviaNow/TriviaNow/obj/Debug/TriviaNow.addQuestionForm.resources
+C:/Users/yanin/source/repos/TriviaNow/TriviaNow/obj/Debug/TriviaNow.TriviaNow.resources
+C:/Users/yanin/source/repos/TriviaNow/TriviaNow/obj/Debug/TriviaNow.ViewQuestion.resources
+E:/TriviaNow/TriviaNow/bin/Debug/TriviaNow.exe.config
+E:/TriviaNow/TriviaNow/bin/Debug/TriviaNow.exe
+E:/TriviaNow/TriviaNow/obj/Debug/TriviaNow.csprojResolveAssemblyReference.cache
+E:/TriviaNow/TriviaNow/obj/Debug/TriviaNow.addQuestionForm.resources
+E:/TriviaNow/TriviaNow/obj/Debug/TriviaNow.EditQuestion.resources
+E:/TriviaNow/TriviaNow/obj/Debug/TriviaNow.help.resources
+E:/TriviaNow/TriviaNow/obj/Debug/TriviaNow.QuizGame.resources
+E:/TriviaNow/TriviaNow/obj/Debug/TriviaNow.TriviaNow.resources
+E:/TriviaNow/TriviaNow/obj/Debug/TriviaNow.Properties.Resources.resources
+E:/TriviaNow/TriviaNow/obj/Debug/TriviaNow.ViewQuestion.resources
+E:/TriviaNow/TriviaNow/obj/Debug/TriviaNow.csproj.GenerateResource.Cache
+E:/TriviaNow/TriviaNow/obj/Debug/TriviaNow.exe
+E:/TriviaNow/TriviaNow/obj/Debug/TriviaNow.pdb
+E:/TriviaNow/TriviaNow/bin/Debug/TriviaNow.pdb
+/Volumes/NO NAME/TriviaNow/TriviaNow/obj/Debug/TriviaNow.csprojResolveAssemblyReference.cache
+/Volumes/NO NAME/TriviaNow/TriviaNow/obj/Debug/TriviaNow.addQuestionForm.resources
+/Volumes/NO NAME/TriviaNow/TriviaNow/obj/Debug/TriviaNow.EditQuestion.resources
+/Volumes/NO NAME/TriviaNow/TriviaNow/obj/Debug/TriviaNow.help.resources
+/Volumes/NO NAME/TriviaNow/TriviaNow/obj/Debug/TriviaNow.QuizGame.resources
+/Volumes/NO NAME/TriviaNow/TriviaNow/obj/Debug/TriviaNow.TriviaNow.resources
+/Volumes/NO NAME/TriviaNow/TriviaNow/obj/Debug/TriviaNow.Properties.Resources.resources
+/Volumes/NO NAME/TriviaNow/TriviaNow/obj/Debug/TriviaNow.ViewQuestion.resources
+/Volumes/NO NAME/TriviaNow/TriviaNow/obj/Debug/TriviaNow.csproj.GenerateResource.Cache
+/Volumes/NO NAME/TriviaNow/TriviaNow/obj/Debug/TriviaNow.csproj.CoreCompileInputs.cache
+/Volumes/NO NAME/TriviaNow/TriviaNow/obj/Debug/TriviaNow.exe
+/Volumes/NO NAME/TriviaNow/TriviaNow/obj/Debug/TriviaNow.pdb
+D:\TriviaNow\TriviaNow\bin\Debug\TriviaNow.exe.config
+D:\TriviaNow\TriviaNow\bin\Debug\TriviaNow.exe
+D:\TriviaNow\TriviaNow\bin\Debug\TriviaNow.pdb
+D:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.addQuestionForm.resources
+D:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.EditQuestion.resources
+D:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.help.resources
+D:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.QuizGame.resources
+D:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.TriviaNow.resources
+D:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.Properties.Resources.resources
+D:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.ViewQuestion.resources
+D:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.csproj.GenerateResource.Cache
+D:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.exe
+D:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.pdb
+G:\TriviaNow\TriviaNow\bin\Debug\TriviaNow.exe.config
+G:\TriviaNow\TriviaNow\bin\Debug\TriviaNow.exe
+G:\TriviaNow\TriviaNow\bin\Debug\TriviaNow.pdb
+G:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.addQuestionForm.resources
+G:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.EditQuestion.resources
+G:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.help.resources
+G:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.QuizGame.resources
+G:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.TriviaNow.resources
+G:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.Properties.Resources.resources
+G:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.ViewQuestion.resources
+G:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.csproj.GenerateResource.cache
+G:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.csproj.CoreCompileInputs.cache
+G:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.exe
+G:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.pdb
+D:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.csprojAssemblyReference.cache
+D:\TriviaNow\TriviaNow\obj\Debug\TriviaNow.csproj.CoreCompileInputs.cache
